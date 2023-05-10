@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=tbqVqP5ilzQ
 
 https://raw.githubusercontent.com/RodrigoMvs123/JavaScript-Interview-Prep-Functions-Closures-Currying/main/README.md
 
-
+https://github.com/RodrigoMvs123/JavaScript-Interview-Prep-Functions-Closures-Currying/blame/main/README.md
 
 script.js
 //Functions in JavaScript
